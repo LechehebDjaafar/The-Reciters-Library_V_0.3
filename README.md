@@ -15,7 +15,7 @@
 
 ## 🎬 Demo / العرض التوضيحي
 
-[🔗 Live Demo]( https://salah-eddine-program.github.io/The-Reciters-Library_V_0.1/ )  
+[🔗 Live Demo]( https://salah-eddine-program.github.io/The-Reciters-Library_V_0.3/ )  
 ---
 
 ## 🛠 Technologies / التقنيات
@@ -24,3 +24,6 @@
 - **mp3quran.net API** (مصدر التلاوات)
 
 ---
+
+
+هذا الموقع صدقة جارية عن أجدادي، وبرّ لوالديّ
