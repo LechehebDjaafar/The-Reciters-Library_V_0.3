@@ -1303,7 +1303,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     ---
     مصدر التلاوات: mp3quran.net
-    الموقع: https://github.com/salah-eddine-program/The-Reciters-Library_V_0.3
+    الموقع: https://salah-eddine-program.github.io/The-Reciters-Library_V_0.3/
 
     بارك الله فيكم وتقبل منكم صالح الأعمال
                 `.trim();
