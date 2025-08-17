@@ -1,15 +1,15 @@
-# 🕌 مشغل القرآن الكريم - The Noble Quran Player
+# The Noble Quran Player - مشغل القرآن الكريم 🕌
 
 <div align="center">
 
-![Quran Player Banner](https://via.placeholder.com/800x200/1e88e5/ffffff?text=🕌+مشغل+القرآن+الكريم)
+![Quran Player Banner](https://via.placeholder.com/800x200/1e88e5/ffffff?text=🕌+The+Noble+Quran+Player)
 
-**منصة ويب حديثة وشاملة للاستماع إلى القرآن الكريم بأصوات أشهر القراء**
+**A modern and comprehensive web platform for listening to the Holy Quran with the voices of the most famous reciters**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-🌐%20مشاهدة%20مباشرة-1e88e5?style=for-the-badge)](https://salah-eddine-program.github.io/The-Reciters-Library_V_0.3/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-🌐%20View%20Live-1e88e5?style=for-the-badge)](https://salah-eddine-program.github.io/The-Reciters-Library_V_0.3/)
 [![Arabic Support](https://img.shields.io/badge/Language-العربية-green?style=for-the-badge)]()
-[![Responsive](https://img.shields.io/badge/Design-متجاوب-orange?style=for-the-badge)]()
-[![Islamic](https://img.shields.io/badge/Content-إسلامي-43a047?style=for-the-badge)]()
+[![Responsive](https://img.shields.io/badge/Design-Responsive-orange?style=for-the-badge)]()
+[![Islamic](https://img.shields.io/badge/Content-Islamic-43a047?style=for-the-badge)]()
 
 </div>
 
@@ -67,7 +67,7 @@
 
 | الوضع النهاري | الوضع الليلي |
 |:---:|:---:|
-| ![Light Mode](https://via.placeholder.com/400x250/fafafa/1e88e5?text=الوضع+النهاري) | ![Dark Mode](https://via.placeholder.com/400x250/121212/2196f3?text=الوضع+الليلي) |
+| ![Light Mode](images/img1.png) | ![Dark Mode](images/img4.png) |
 
 </div>
 
@@ -77,7 +77,7 @@
 
 | 🖥️ سطح المكتب | 📱 الهاتف المحمول |
 |:---:|:---:|
-| ![Desktop View](https://via.placeholder.com/400x250/1e88e5/ffffff?text=عرض+سطح+المكتب) | ![Mobile View](https://via.placeholder.com/200x350/43a047/ffffff?text=عرض+الهاتف) |
+| ![Desktop View](images/img1.png) | ![Mobile View](images/img5.png) |
 
 </div>
 
@@ -135,13 +135,13 @@
 <summary>🖼️ مشاهدة لقطات الشاشة</summary>
 
 ### الصفحة الرئيسية
-![الصفحة الرئيسية](https://via.placeholder.com/800x400/1e88e5/ffffff?text=الصفحة+الرئيسية)
+![الصفحة الرئيسية](images/img1.png)
 
 ### مشغل الصوت
-![مشغل الصوت](https://via.placeholder.com/800x300/43a047/ffffff?text=مشغل+الصوت)
+![مشغل الصوت](images/img2.png)
 
 ### صفحة حول الموقع
-![صفحة حول الموقع](https://via.placeholder.com/600x400/ff6f00/ffffff?text=صفحة+حول+الموقع)
+![صفحة حول الموقع](images/img3.png)
 
 </details>
 
@@ -249,4 +249,3 @@ open index.html
 *"وَمَا أُرِيدُ إِلَّا الْإِصْلَاحَ مَا اسْتَطَعْتُ"*
 
 </div>
-#غزه_تموت_جوعا
